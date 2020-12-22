@@ -2,10 +2,10 @@
 
 Write an api that can be used to track sample real estate listing data. Create a simple database that can hold
 listing data(mls_number, address, listing date, price, agent, etc). The api should be able to:
-● create new listings
-● retrieve listings (get by mls number, agent, etc)
-● update listing data
-● remove listings by mls number
+* create new listings
+* retrieve listings (get by mls number, agent, etc)
+* update listing data
+* remove listings by mls number
 
 ## Prerequisites
 
