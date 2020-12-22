@@ -1,0 +1,16 @@
+{
+  "name": "RealEstate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "pg": "^7.4.1"
+  },
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
